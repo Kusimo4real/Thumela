@@ -4,7 +4,7 @@
 	include_once('resources/config.php'); 
 	include_once('resources/init.php'); 
 
-// Check if id of post is set or not
+// This statement checks if the id of post is set or not
 if ( ! isset($_GET['id']) ) {
 	header('location: index.php');
 	die();
