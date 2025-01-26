@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "thumela_db";
+$dbname = "thumela_db"; //Name of the local database inside www folder
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
