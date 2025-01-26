@@ -1,9 +1,13 @@
+I've added the GitHub repository link to the slide deck. Let me now update the README with the same information.
 
+Here’s the updated README with the GitHub repository link included:
 
-# Blog Platform
+---
+
+# Thumela
 
 ## Overview
-A blog platform that allows users to create, edit, delete, and manage blog posts with a responsive design. The project also features user authentication and supports additional enhancements like markdown editing and image uploads for blog headers.
+Thumela is a blog platform that allows users to create, edit, delete, and manage blog posts with a responsive design. The project also features user authentication and supports additional enhancements like markdown editing and image uploads for blog headers.
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
@@ -37,8 +41,8 @@ A blog platform that allows users to create, edit, delete, and manage blog posts
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/blog-platform.git
-   cd blog-platform
+   git clone https://github.com/Kusimo4real/Thumela.git
+   cd Thumela
    ```
 
 2. **Setup Database**:
@@ -89,3 +93,4 @@ Contributions are welcome! Please fork the repository and create a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
