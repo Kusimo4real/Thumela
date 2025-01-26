@@ -4,7 +4,7 @@ Here’s the updated README with the GitHub repository link included:
 
 ---
 
-# Thumela
+# Thumela Blog
 
 ## Overview
 Thumela is a blog platform that allows users to create, edit, delete, and manage blog posts with a responsive design. The project also features user authentication and supports additional enhancements like markdown editing and image uploads for blog headers.
